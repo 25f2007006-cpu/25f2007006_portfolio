@@ -1,5 +1,22 @@
-Daily Task Management System
-Student Name: Your Name
-Student Email: your_email_id
-This repository contains Git and GitHub practice tasks including commits,
-branching, merging, merge conflict resolution, and restore operations.
+# Personal Portfolio website
+
+## Student Details
+Name: Balasundari
+Roll Number: 25f2007006
+Email: 25f2007006@ds.study.iitm.ac.in
+
+## About Project
+This project is created as part of the Git & GitHub Workshop.
+
+The portfolio website contains:
+- Home Page
+- About Page
+- Projects Page
+- Contact Page
+- GitHub Wiki Pages
+
+## Technologies Used
+- HTML
+- CSS
+- Git
+- GitHub
